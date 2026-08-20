@@ -10,27 +10,27 @@ The dashboard provides insights into flight volume, cancellations, delays, airli
 
 ### 🏠 Airline Overview
 
-![Airline Overview](dashboard-overview.png)
+![Airline Overview](Dashboards/dashboard-overview.png)
 
 ### ✈️ Airline Performance
 
-![Airline Performance](airline-performance.png)
+![Airline Performance](Dashboards/airline-performance.png)
 
 ### 🗺️ Route & Airport Maps
 
-![Route & Airport Maps](route-airport-maps.png)
+![Route & Airport Maps](Dashboards/route-airport-maps.png)
 
 ### 🔎 Drill-Through Analysis
 
-![Drill-Through](drill-through.png)
+![Drill-Through](Dashboards/drill-through.png)
 
 ### 📈 Trends & Forecast Analysis
 
-![Trends & Forecast](Trends-forecast.png)
+![Trends & Forecast](Dashboards/Trends-forecast.png)
 
 ### 🛫 Flight Summary
 
-![Flight Summary](Tooltip.png)
+![Tooltip](Dashboards/Tooltip.png)
 
 ---
 
