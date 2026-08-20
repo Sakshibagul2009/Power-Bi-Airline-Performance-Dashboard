@@ -7,17 +7,30 @@ The dashboard provides insights into flight volume, cancellations, delays, airli
 
 ## 📊 Dashboard Preview
 
+
 ### 🏠 Airline Overview
+
+![Airline Overview](dashboard-overview.png)
 
 ### ✈️ Airline Performance
 
+![Airline Performance](airline-performance.png)
+
 ### 🗺️ Route & Airport Maps
+
+![Route & Airport Maps](route-airport-maps.png)
 
 ### 🔎 Drill-Through Analysis
 
+![Drill-Through](drill-through.png)
+
 ### 📈 Trends & Forecast Analysis
 
+![Trends & Forecast](Trends-forecast.png)
+
 ### 🛫 Flight Summary
+
+![Flight Summary](Tooltip.png)
 
 ---
 
@@ -133,8 +146,8 @@ US-Flight-Performance-Dashboard/
 ├── airline-performance.png
 ├── route-airport-maps.png
 ├── drill-through.png
-├── trends-forecast.png
-└── flight-summary.png
+├── Trends-forecast.png
+└── Tooltip.png
 ```
 
 ---
@@ -162,3 +175,4 @@ Power BI | Data Analytics | Data Visualization
 ---
 
 ⭐ **If you find this project useful, feel free to star the repository!**
+tory!**
